@@ -8,4 +8,6 @@ class Post_job : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_post_job)
     }
+
+
 }
